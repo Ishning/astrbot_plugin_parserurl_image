@@ -1,0 +1,2 @@
+# astrbot_plugin_parserurl_image
+用于存放一些图片做引用
